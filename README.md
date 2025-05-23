@@ -1,1 +1,1 @@
-# Fake-News-Detection-using-Decision-Trees-and-Random-Forests
+This project detects fake news using Decision Tree and Random Forest classifiers. It preprocesses text data (removing punctuation, stopwords, and lowercase conversion) and analyzes word frequency. The Random Forest model achieves 99% accuracy, outperforming Decision Trees (98%). Includes a function to predict fake/real news from user input. Built with Python, Scikit-learn, and NLTK.
